@@ -1,5 +1,5 @@
 
-/*create database dblLibrary;*/
+create database dblLibrary;
 create table tblauthors(
 AID int primary key auto_increment,
 FirstName varchar(16) not null,
