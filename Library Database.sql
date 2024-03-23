@@ -6,6 +6,7 @@ FirstName varchar(16) not null,
 LastName varchar(16) not null,
 Title text not null,
 Genre text not null,
+Date Published int not null,
 Synopsis text not null
 );
 
