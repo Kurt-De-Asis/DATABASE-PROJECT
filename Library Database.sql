@@ -6,7 +6,7 @@ FirstName varchar(16) not null,
 LastName varchar(16) not null,
 Title text not null,
 Genre text not null,
-Date Published int not null,
+DatePublished date not null,
 Synopsis text not null
 );
 
@@ -15,7 +15,7 @@ FirstName,
 LastName,
 Title,
 Genre,
-Date Published,
+DatePublished,
 Synopsis
 ) values
 ("Jose", "Rizal", "Noli Me Tangere", "History", "1887", "The plot revolves around Crisostomo Ibarra, mixed-race heir of a wealthy clan, returning home after seven years in Europe and filled with ideas on how to better the lot of his countrymen."),
