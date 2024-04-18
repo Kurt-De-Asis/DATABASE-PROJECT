@@ -1,7 +1,7 @@
 create database dblLibrary;
 
 create table tblauthors(
-AID int unique auto_increment,
+AID int primary key auto_increment,
 FirstName varchar(16) not null,
 LastName varchar(16) not null,
 Title text not null,
