@@ -140,3 +140,4 @@ Synopsis
 ("Isaac", "Asimov", "Robot Dreams", "Science Fiction", "1986-08-12", "A collection of short stories featuring Asimov's famous robots, exploring themes of artificial intelligence, morality, and the nature of humanity."),
 ("Isaac", "Asimov", "The End of Eternity", "Science Fiction", "1955-06-01", "In a future where time travel is possible, Andrew Harlan is a technician for the organization known as Eternity, tasked with ensuring the smooth flow of history, until he falls in love and challenges the status quo."),
 ("Isaac", "Asimov", "Robot Visions", "Science Fiction", "1990-09-01", "Another collection of short stories featuring Asimov's robots, including previously unpublished works and essays exploring the future of robotics and artificial intelligence.")
+Haha
